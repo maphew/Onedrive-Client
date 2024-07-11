@@ -32,7 +32,7 @@ These switches were reverse engineered from various conversations around the web
 
 ## History of this page
 
-*This page was started from the extract below from web.archive.org, found by way of @Mokubai at [Batch Script to Pause and Resume One Drive Sync? - Super User](https://superuser.com/questions/1742608/batch-script-to-pause-and-resume-one-drive-sync/).  Since there doesn't seem to be a suitable replacement to this thread or it's ultimate aim - a doc page - Matt Wilkie gathered the material together and contributed it to the Powershell ***OneDrive-Client***  project. The info needs to live somewhere so it might as well be with the person who did the first big lift.*
+*This page was started from the extract below from web.archive.org, found by way of @Mokubai at [Batch Script to Pause and Resume One Drive Sync? - Super User](https://superuser.com/questions/1742608/batch-script-to-pause-and-resume-one-drive-sync/).  Since there doesn't seem to be a suitable replacement to this thread or it's ultimate aim - a doc page - Matt Wilkie gathered the material together and contributed it to the Powershell ***OneDrive-Client***  project. The info needs to live somewhere so it might as well be with the person who did the first big lift: Kevin Crouch (@PsychoData).*
 
 
 
